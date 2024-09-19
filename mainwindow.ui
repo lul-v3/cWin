@@ -29,7 +29,7 @@
    <enum>Qt::ContextMenuPolicy::ActionsContextMenu</enum>
   </property>
   <property name="windowTitle">
-   <string>cWindows | V.1.0.0</string>
+   <string>cWin | V.1.0.0</string>
   </property>
   <property name="toolButtonStyle">
    <enum>Qt::ToolButtonStyle::ToolButtonTextOnly</enum>
