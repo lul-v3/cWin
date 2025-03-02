@@ -1,6 +1,8 @@
 # cWin
-
 cWin is a C++ application built with Qt for managing and manipulating windows of running processes on Windows systems. This project is inspired by the "[auWin](https://www.github.com/dodaucy/auwin/)" project by [dodaucy](https://www.github.com/dodaucy), which was originally implemented in AutoIt3. cWin provides similar functionality using modern C++ and Qt, eliminating the need for AutoIt.
+<br><br>
+This project was intended for learning only. 
+I'll update this project when I have time.
 
 ## Features
  
